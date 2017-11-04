@@ -2,36 +2,67 @@
 ### Backend (PHP) Developer
 
 ![](https://raw.githubusercontent.com/TemirkhanN/cv/master/bin/photo.jpeg)
+ 
+- temirkhan.nasukhov at gmail dot com
+- [Linkedin](https://www.linkedin.com/in/temirkhan-nasukhov-039880143)
+- [GitHub](https://github.com/TemirkhanN)
 
-- \+ 1111111111 
-- fake@email
-- [linkedin](http://linkedin.com)
-
-#### Backend developer with 4 years experience behind. Wide level range projects in sack: from blogs and newsboards to SaaS and financial platforms. 
+#### Backend developer with 4 years experience behind and wide level range projects in sack: from blogs and newsboards to SaaS and financial platforms. 
 
 # Experience
 
-**2016-present**
 ### Symfony developer
-**Cognitive Technologies/Moscow**
+__Cognitive Technologies/Moscow__
 
-- Чем я занимался
+**2016 - present**
+
+- Agile development
+- Guarantee order system engineering and developing
+- Modules and bundles design and code
+- Tasks decomposition and delegation
+- Unit testing, code documentation
+- Code review
+
+Highlights:
+- Migrated to  php 7.0 with rigorous strict_types
+- Environment fully based on docker
+- No-way-back domain driven design addiction
+- Test driven development
+- Over 98% code coverage
 
 
-**2015-2016**
 ### Fullstack developer
 
-**Callbackhunter/Moscow**
+__Callbackhunter/Moscow__
 
-- Чем я занимался
+**2015 - 2016**
+
+- New features development, involving extensions and optimizations
+- Front-side widget extending
+- API integrations(zendesk, sparkpost, billingrad, twillio, mandrill, mailchimp)
+- Cooperation with franchise partners in chase of outside market(Britain, China)
+
+Highlights:
+- PHPDoc implemented. Fully documented relationships between project modules
+- Migration system activated and enhanced
+- Fully remastered notification system, payment system
+- Webhook integration implemented
 
 
-__2013-2015__
 ### Fullstack developer
 
-**NovayaSpravka/Makhachkala**
+__NovayaSpravka/Makhachkala__
 
-- Чем я занимался
+**2013 - 2015**
+
+- HTML coding, new features development and supporting old ones.
+- Internal API development
+- Refactoring and optimization (mostly based heavy queries, caching, vulnerabilities).
+- Debian VPS administration rookie
+
+# Skills
+
+PHP, PostgreSQL, Mysql, Memcached, RabbitMQ, Docker, Git, Symfony3, DDD, TDD, SOLID, DRY.
 
 # Education
 ### 2009-2015 Math and Computer Science / Dagestan State University
