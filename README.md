@@ -11,10 +11,15 @@
 
 # Experience
 
+### Lead backend-developer
+__Webinar/Moscow__
+
+**2018 - present**
+
 ### Symfony developer
 __Cognitive Technologies/Moscow__
 
-**2016 - present**
+**2016 - 2018**
 
 - Agile development
 - Guarantee order system engineering and developing
@@ -24,7 +29,7 @@ __Cognitive Technologies/Moscow__
 - Code review
 
 Highlights:
-- Migrated to  php 7.0 with rigorous strict_types
+- Migrated to php 7.0 with rigorous strict_types
 - Environment fully based on docker
 - No-way-back domain driven design addiction
 - Test driven development
