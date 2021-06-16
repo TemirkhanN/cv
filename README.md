@@ -11,7 +11,7 @@ I am not afraid to claim that building RESTful APIs and flexible applications is
 Years of experience have proven that one person can barely handle everything especially when a
 project grows huge. My primary goal is spreading good practices and sharing experience with every
 passionate developer to make development fast, qualitative and most importantly easy.  
-I am looking for the new experience with people who have other mentality and knowledge to master our skills.
+I am looking for the new experience with people who have different mentalities and knowledge to master our skills.
 
 #### Skills
 
@@ -24,13 +24,13 @@ I am looking for the new experience with people who have other mentality and kno
 
 ##### Lead Developer
 *2020/06 - present*  
-**Vseinstrumentiru**(Ecommerce), Nizhniy Novgorod
+**Vseinstrumentiru** (Ecommerce), Nizhniy Novgorod
 
 - Segregated and refactored the existing code base and legacy
 - Configured active monitoring and initialized zero-bug policy approaches
 - Wrote development guidelines and internal workshops
 - Shared GRASP, SOLID, DDD, FIRST knowledge
-- Created multiple response/dto/tracer bundles(some of them in opensource)
+- Created multiple response/dto/tracer bundles (some of them in opensource)
 - Helped to remove the bus factor in devops
 - *Tech: Symfony, PHP, Percona, PHPUnit, Docker, Sentry*
 
@@ -38,7 +38,7 @@ I am looking for the new experience with people who have other mentality and kno
 
 ##### Senior PHP Developer
 *2019/09 - 2019/11*  
-**Lamoda**(Ecommerce), Moscow
+**Lamoda** (Ecommerce), Moscow
 
 - Designed and programmed a gift-card microservice
 - Segregated and refactored the existing code base and legacy
@@ -53,7 +53,7 @@ I am looking for the new experience with people who have other mentality and kno
 
 ##### Software Engineer
 *2019/02 - 2019/09*  
-**Avito**(Classifieds), Moscow
+**Avito** (Classifieds), Moscow
 
 - Developed and integrated GooglePay system
 - Removed the unnecessary DI legacy from the main payment microservice
@@ -68,11 +68,11 @@ I am looking for the new experience with people who have other mentality and kno
 
 ##### Lead Developer
 *2018/04 - 2019/02*  
-**Webinar/Comdi**(Streaming platform), Moscow
+**Webinar/Comdi** (Streaming platform), Moscow
 
 - Fixed and refactored a huge legacy in Symfony version, the module system and communication between them
 - Designed new modules and symfony bundles
-- Decomposed tasks, wrote documentation and acceptance criteria(both **DoD** and **DoR**);
+- Decomposed tasks, wrote documentation and acceptance criteria (both **DoD** and **DoR**);
 - Configured continuous integration
 - Migrated from PHP 5.6 to 7.1
 - Unit/integration/functional testing
@@ -82,7 +82,7 @@ I am looking for the new experience with people who have other mentality and kno
 
 ##### Middle PHP Developer
 *2016/10 - 2018/03*  
-**Cognitive Technologies**(Outsource), Moscow
+**Cognitive Technologies** (Outsource), Moscow
 
 - Developed bank-guarantee tender-based order system
 - Designed and developed modules and bundles both domain and infrastructure-based
@@ -98,7 +98,7 @@ I am looking for the new experience with people who have other mentality and kno
 
 ##### Full Stack Web Developer
 *2015/10 - 2016/10*  
-**Callbackhunter**(CRM) Moscow
+**Callbackhunter** (CRM) Moscow
 
 - Developed new features, involving extensions
 - Implemented webhooks system implemented for partners integration
