@@ -1,7 +1,7 @@
 ### Temirkhan Nasukhov
 
 **Address**: Moscow, Russia  
-**E-mail**: temirkhan@nasukhov.me
+**E-mail**: temirkhan&#64;nasukhov.me
 
 ---
 Domain driven development is the primary part of my job.  
