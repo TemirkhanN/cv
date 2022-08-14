@@ -22,8 +22,12 @@ I am looking for the new experience with people who have different mentalities a
 #### Experience
 
 
+##### Engineer
+*2021/11 - present*  
+**Westwing**  (Ecommerce), Munich
+
 ##### Lead Developer
-*2020/06 - present*  
+*2020/06 - 2021/10*  
 **Vseinstrumentiru** (Ecommerce), Nizhniy Novgorod
 
 - Segregated and refactored the existing code base and legacy
