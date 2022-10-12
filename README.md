@@ -25,6 +25,7 @@ I am looking for the new experience with people who have different mentalities a
 ##### Engineer
 *2021/11 - present*  
 **Westwing**  (Ecommerce), Munich
+
 - Checkout process redesign
 - Symfony5 RESTful API implementation
 - API spec autovalidation integration
