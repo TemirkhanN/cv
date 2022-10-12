@@ -1,6 +1,6 @@
 ### Temirkhan Nasukhov
 
-**Address**: Munich, Germany  
+**Address**: Dresden, Germany  
 **E-mail**: temirkhan&#64;nasukhov.me
 
 ---
@@ -25,6 +25,10 @@ I am looking for the new experience with people who have different mentalities a
 ##### Engineer
 *2021/11 - present*  
 **Westwing**  (Ecommerce), Munich
+- Checkout process redesign
+- Symfony5 RESTful API implementation
+- API spec autovalidation integration
+- *Tech: PHP, Symfony, NodeJS, Percona, PHPUnit, Docker
 
 ##### Lead Developer
 *2020/06 - 2021/10*  
