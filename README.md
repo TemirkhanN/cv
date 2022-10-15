@@ -3,15 +3,11 @@
 **Address**: Dresden, Germany  
 **E-mail**: temirkhan&#64;nasukhov.me
 
----
-Domain driven development is the primary part of my job.  
-I love it because it minimizes overall cost of an application's maintenance and simplifies future development.  
-TDD helps me to skyrocket the quality of a project by writing less code that does exactly what it intends to.  
-I am not afraid to claim that building RESTful APIs and flexible applications is an easy task for me.  
-Years of experience have proven that one person can barely handle everything especially when a
-project grows huge. My primary goal is spreading good practices and sharing experience with every
-passionate developer to make development fast, qualitative and most importantly easy.  
-I am looking for the new experience with people who have different mentalities and knowledge to master our skills.
+---  
+
+#### Preferable tools/utils
+
+PHP 7.4+, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scrum, domain driven, test driven.
 
 #### Skills
 
@@ -29,7 +25,7 @@ I am looking for the new experience with people who have different mentalities a
 - Checkout process redesign
 - Symfony5 RESTful API implementation
 - API spec autovalidation integration
-- *Tech: PHP, Symfony, NodeJS, Percona, PHPUnit, Docker
+- *Tech: PHP, Symfony, NodeJS, MySQL, PHPUnit, Docker*
 
 ##### Lead Developer
 *2020/06 - 2021/10*  
@@ -119,7 +115,19 @@ I am looking for the new experience with people who have different mentalities a
 - Integrated with zendesk, sparkpost, billingrad, twillio, mandrill, mailchimp
 - Cooperated with the franchise partners in chase for the external market(Britain, China)
 
-### Education
+#### Education
 
 Specialist, System programmer  
 *Dagestan State University - Makhachkala, Russia*
+
+#### About
+
+I like videogames, books, anime, philosophy(preferably sophisticated/sophism-like), table tennis.
+
+Domain driven development is the primary part of my job.  
+It minimizes overall cost of the application's maintenance and simplifies the future development.  
+TDD helps me to skyrocket the quality of a project by writing less code that does exactly what it intends to.  
+Years of experience have proven that one person can barely handle everything especially when a
+project grows huge. My primary goal is spreading good practices and sharing experience with every
+passionate developer to make development fast, qualitative and most importantly easy.  
+I'm looking for a passionate people to share and exchange.
