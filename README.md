@@ -7,11 +7,11 @@
 
 #### Preferable tools/utils
 
-PHP 7.4+, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scrum, domain driven, test driven.
+PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scrum, domain driven, test driven.
 
 #### Skills
 
-- Strong **PHP7** and **SQL** knowledge
+- Solid **PHP** and **SQL** knowledge
 - **DDD, SOLID, GRASP, CQRS, TDD** are **essentials** in my practice
 - Architecture and design of a modules and applications are **the strongest part of my skills**:
 
