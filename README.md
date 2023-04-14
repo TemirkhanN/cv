@@ -37,7 +37,7 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 - Shared GRASP, SOLID, DDD, FIRST knowledge
 - Created multiple response/dto/tracer bundles (some of them in opensource)
 - Helped to remove the bus factor in devops
-- *Tech: Symfony, PHP, Percona, PHPUnit, Docker, Sentry*
+- *Tech: Symfony, PHP, MySQL, PHPUnit, Docker, Sentry*
 
 ***
 
@@ -52,7 +52,7 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 - Wrote user-doc
 - Performed code and self/peer review
 - Shared the knowledge (mostly about DDD/TDD and responsibility segregation)
-- *Tech: Symfony, PHP, Percona, Codeception, AngularJS, Docker*
+- *Tech: Symfony, PHP, MySQL, Codeception, AngularJS, Docker*
 
 ***
 
@@ -81,7 +81,7 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 - Configured continuous integration
 - Migrated from PHP 5.6 to 7.1
 - Unit/integration/functional testing
-- *Tech: PHP, Symfony, Percona, PHPUnit/Codeception, Redis, Sentry, Docker, DDD, Scrum*
+- *Tech: PHP, Symfony, MySQL, PHPUnit/Codeception, Redis, Sentry, Docker, DDD, Scrum*
 
 ***
 
