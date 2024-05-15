@@ -13,13 +13,19 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 
 - Solid **PHP** and **SQL** knowledge
 - **DDD, SOLID, GRASP, CQRS, TDD** are **essentials** in my practice
-- Architecture and design of a modules and applications are **the strongest part of my skills**:
+- Modules/apps architecture and design are **the strongest parts of my skills**:
 
 #### Experience
 
+##### Senior software developer
+*2023/09 - present*  
+**Scayle**  (Ecommerce engine), Hamburg
+
+- Ongoing  
+
 
 ##### Engineer
-*2021/11 - present*  
+*2021/11 - 2023/09*  
 **Westwing**  (Ecommerce), Munich
 
 - Checkout process redesign
