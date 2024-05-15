@@ -23,6 +23,7 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 
 - Ongoing  
 
+***
 
 ##### Engineer
 *2021/11 - 2023/09*  
@@ -32,6 +33,8 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 - Symfony5 RESTful API implementation
 - API spec autovalidation integration
 - *Tech: PHP, Symfony, NodeJS, MySQL, PHPUnit, Docker*
+
+***
 
 ##### Lead Developer
 *2020/06 - 2021/10*  
