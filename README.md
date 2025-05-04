@@ -7,13 +7,14 @@
 
 #### Preferable tools/utils
 
-PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scrum, domain driven, test driven.
+PHP, Java/Kotlin, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scrum, domain driven, test driven.
 
 #### Skills
 
 - Solid **PHP** and **SQL** knowledge
 - **DDD, SOLID, GRASP, CQRS, TDD** are **essentials** in my practice
-- Modules/apps architecture and design are **the strongest parts of my skills**:
+- Modules/apps architecture and design are **the strongest parts of my skills**
+- I love java, kotlin, php, and disfavor hidden control flow
 
 #### Experience
 
@@ -21,7 +22,9 @@ PHP 7.4+, Go, PHPUnit, Symfony 4+, PostgreSQL, Sentry, Kibana, Docker, Agile/Scr
 *2023/09 - present*  
 **Scayle**  (Ecommerce engine), Hamburg
 
-- Ongoing  
+- Decomposing business features into tasks
+- Investigations, refactoring, monitoring
+- *Tech: PHP, MySQL, AWS, Datadog*
 
 ***
 
@@ -131,12 +134,10 @@ Specialist, System programmer
 
 #### About
 
-I like videogames, books, anime, philosophy(preferably sophisticated/sophism-like), table tennis.
+I like videogames, gamedev, books, anime, philosophy, table tennis.
 
 Domain driven development is the primary part of my job.  
 It minimizes overall cost of the application's maintenance and simplifies the future development.  
 TDD helps me to skyrocket the quality of a project by writing less code that does exactly what it intends to.  
 Years of experience have proven that one person can barely handle everything especially when a
-project grows huge. My primary goal is spreading good practices and sharing experience with every
-passionate developer to make development fast, qualitative and most importantly easy.  
-I'm looking for a passionate people to share and exchange.
+project grows huge. 
